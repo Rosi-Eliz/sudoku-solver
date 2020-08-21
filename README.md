@@ -1,2 +1,2 @@
 # sudoku
-C++ based sudoku game
+C++ based sudoku solver iOS application with scanning capability
